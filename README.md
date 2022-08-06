@@ -1,6 +1,6 @@
 # Basic_Python_Projects
 
-1.Hangman 
+1.Hangman_Game 
 
 2.Number_Guessing_Game
 
