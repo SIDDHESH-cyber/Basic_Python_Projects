@@ -1,15 +1,15 @@
 # Basic_Python_Projects
 
-1.Hangman_Game 
+<h3>1 . Hangman_Game </h3>
 
-2.Number_Guessing_Game
+<h3>2 . Number_Guessing_Game</h3>
 
-3.Password_Generator
+<h3>3 . Password_Generator</h3>
 
-4.QR_Code_Generate
+<h3>4 . QR_Code_Generate</h3>
 
-5.Screenshot_With_Timer
+<h3>5 . Screenshot_With_Timer</h3>
 
-6.Tic_Tac_Toe
+<h3>6 . Tic_Tac_Toe</h3>
 
-7.Timer_Stop_Watch
+<h3>7 . Timer_Stop_Watch</h3>
