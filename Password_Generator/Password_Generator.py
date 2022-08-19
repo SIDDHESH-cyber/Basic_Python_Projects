@@ -22,6 +22,8 @@ for i in range(0, nr_numbers):
 for j in range(0, nr_symbols):
     password_list += random.choice(symbols)
 
+random.shuffle(password_list)
+
 password = ""
 
 for x in password_list:
